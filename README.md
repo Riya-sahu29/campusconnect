@@ -41,7 +41,7 @@ CampusConnect is a full-stack placement management system that connects **studen
 ### Student Profile
 ![Student Profile](campusconnect-frontend/src/screenshots/06-student-profile.png.png)
 
----
+
 ---
 
 ## ✨ Features
