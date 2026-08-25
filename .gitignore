@@ -1,0 +1,25 @@
+# Dependencies
+campusconnect-backend/node_modules/
+campusconnect-frontend/node_modules/
+
+# Environment variables — NEVER push these
+campusconnect-backend/.env
+campusconnect-frontend/.env
+
+# Frontend build output
+campusconnect-frontend/dist/
+
+# Uploads folder
+campusconnect-backend/uploads/*
+!campusconnect-backend/uploads/.gitkeep
+
+# Test scripts
+campusconnect-backend/test-scripts/
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
